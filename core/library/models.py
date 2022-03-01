@@ -50,5 +50,3 @@ class Authur(models.Model):
 
 
 
-
-
